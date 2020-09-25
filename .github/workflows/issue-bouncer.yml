@@ -1,4 +1,4 @@
-name: Bounce issues from public repo to private repo
+name: Bounce issuess from public repo to private repo
 on:
   issues:
     types: [opened]
